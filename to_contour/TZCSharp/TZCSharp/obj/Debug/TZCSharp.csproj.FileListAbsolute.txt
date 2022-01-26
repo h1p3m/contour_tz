@@ -1,0 +1,7 @@
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\obj\Debug\TZCSharp.csprojAssemblyReference.cache
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\obj\Debug\TZCSharp.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\bin\Debug\TZCSharp.exe.config
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\bin\Debug\TZCSharp.exe
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\bin\Debug\TZCSharp.pdb
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\obj\Debug\TZCSharp.exe
+F:\Users\Admin\Desktop\GUI\TZCSharp\TZCSharp\obj\Debug\TZCSharp.pdb
